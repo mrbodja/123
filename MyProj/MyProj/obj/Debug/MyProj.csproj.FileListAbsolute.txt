@@ -1,0 +1,7 @@
+D:\exam1\MyProj\MyProj\bin\Debug\MyProj.exe.config
+D:\exam1\MyProj\MyProj\bin\Debug\MyProj.exe
+D:\exam1\MyProj\MyProj\bin\Debug\MyProj.pdb
+D:\exam1\MyProj\MyProj\obj\Debug\MyProj.csprojAssemblyReference.cache
+D:\exam1\MyProj\MyProj\obj\Debug\MyProj.csproj.CoreCompileInputs.cache
+D:\exam1\MyProj\MyProj\obj\Debug\MyProj.exe
+D:\exam1\MyProj\MyProj\obj\Debug\MyProj.pdb

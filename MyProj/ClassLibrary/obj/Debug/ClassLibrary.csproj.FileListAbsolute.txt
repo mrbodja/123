@@ -1,0 +1,5 @@
+D:\exam1\MyProj\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\exam1\MyProj\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\exam1\MyProj\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\exam1\MyProj\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\exam1\MyProj\ClassLibrary\obj\Debug\ClassLibrary.pdb

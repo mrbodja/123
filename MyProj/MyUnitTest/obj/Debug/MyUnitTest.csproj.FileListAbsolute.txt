@@ -1,0 +1,9 @@
+D:\exam1\MyProj\MyUnitTest\obj\Debug\MyUnitTest.csproj.CoreCompileInputs.cache
+D:\exam1\MyProj\MyUnitTest\obj\Debug\MyUnitTest.csprojAssemblyReference.cache
+D:\exam1\MyProj\MyUnitTest\bin\Debug\MyUnitTest.dll
+D:\exam1\MyProj\MyUnitTest\bin\Debug\MyUnitTest.pdb
+D:\exam1\MyProj\MyUnitTest\bin\Debug\ClassLibrary.dll
+D:\exam1\MyProj\MyUnitTest\bin\Debug\ClassLibrary.pdb
+D:\exam1\MyProj\MyUnitTest\obj\Debug\MyUnitTest.csproj.CopyComplete
+D:\exam1\MyProj\MyUnitTest\obj\Debug\MyUnitTest.dll
+D:\exam1\MyProj\MyUnitTest\obj\Debug\MyUnitTest.pdb
